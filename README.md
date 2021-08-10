@@ -6,7 +6,7 @@ Hi! I'm Bora. I like coding stuff. I have a lot of ideas and <del>sometimes</del
   My attempt to make a functioning game from scratch. No libraries used other than SDL for rendering. Written in C with some small set of C++ features (like operator overloading). Developed using MSVC compiler.
 
 - [color-map](https://github.com/bozdogan/color-map)  
-  School project. Coloring a map with no two neighbors using the same color. Written Python.
+  School project. Coloring a map with no two neighbors using the same color. Written in Python.
 
 - [nodetails](https://github.com/bozdogan/nodetails), [nodetails-website](https://github.com/bozdogan/nodetails-website)  
   Senior thesis. A layered text summarization tool using Natural Language Processing with Deep Learning. It consists of a server that runs the summarization engines, an API for querying the server and a web client to give user a convenient way to use our service. Back-end is written in Python Flask, Tensorflow framework is used for Machine Learning.
