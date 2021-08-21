@@ -1,6 +1,6 @@
 # bozdogan
 
-Hi! I'm Bora. I like coding stuff. I have a lot of ideas and <del>sometimes</del> <ins>most of the time</ins> I don't have enough spare time to turn them into full-fledged projects. Here are some of them that are completed:
+Hi! Name's Bora. I do coding stuff. I have a lot of ideas and <del>sometimes</del> <ins>most of the time</ins> I don't have enough spare time to turn them into full-fledged projects. Here are some of them that've made it through:
 
 - [asteroids_clone](https://github.com/bozdogan/asteroids_clone)  
   My attempt to make a functioning game from scratch. No libraries used other than SDL for rendering. Written in C with some small set of C++ features (like operator overloading). Developed using MSVC compiler.
