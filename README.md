@@ -5,6 +5,9 @@ Hi! Name's Bora. I do coding stuff. I have a lot of ideas and <del>sometimes</de
 - [asteroids_clone](https://github.com/bozdogan/asteroids_clone)  
   My attempt to make a functioning game from scratch. No libraries used other than SDL for rendering. Written in C with some small set of C++ features (like operator overloading). Developed using MSVC compiler.
 
+- [chat-app](https://github.com/bozdogan/chat-app)  
+  Real-time chatting application written in C# for desktop, featuring WinForms GUI and optional SQL Server database logging.
+
 - [color-map](https://github.com/bozdogan/color-map)  
   School project. Coloring a map with no two neighbors using the same color. Written in Python.
 
