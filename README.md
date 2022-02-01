@@ -16,6 +16,15 @@ Hi! Name's Bora. I do coding stuff. I have a lot of ideas and <del>sometimes</de
 
   My role in the small team of this project was engineering the Deep Learning process, coding the RESTful API for querying the server, and providing back-end engineering support for my teammates who coded the front-end UI/UX and prepared the presentations for the [Project Fair](https://mfprojefuari.eskisehir.edu.tr/14-proje-fuar%C4%B1-ve-yar%C4%B1%C5%9Fmas%C4%B1-08-haziran-2021-0).
 
+## Back-End Projects
+
+- [timestamp-api](https://github.com/bozdogan/timestamp-api)  
+  A web API that converts the date between UTC time and UNIX timestamp.
+- [file-metadata-api](https://github.com/bozdogan/file-metadata-api)  
+  A web API that gives meta data on an uploaded file (like MIME type and size).
+- [diceroll-api](https://github.com/bozdogan/diceroll-api)  
+  A web API for multiple dice result. (Pseudo-random)
+
 ## Older Projects
 
 Some of my older projects are now legacy as I don't maintain them and are not usable due to dependencies of older software. But I keep the code anyway. You can find them [here](./abandoned.md).
