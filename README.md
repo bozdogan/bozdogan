@@ -2,7 +2,10 @@
 
 Hi! My name is Bora. I do coding stuff. I mainly code in Java, Python and C. I'm also familiar with C#, Javascript, HTML, CSS, and Go.
 
+
 ## Contact
+
+[&#x1F4E7; boraozdogan99@gmail.com](mailto:boraozdogan99@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bora-%C3%B6zdo%C4%9Fan-59a526155/)  
 
