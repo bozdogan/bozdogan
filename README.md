@@ -2,6 +2,13 @@
 
 Hi! My name is Bora. I do coding stuff. I mainly code in Java, Python and C. I'm also familiar with C#, Javascript, HTML, CSS, and Go.
 
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bora-%C3%B6zdo%C4%9Fan-59a526155/)  
+
+
+## Projects
+
 I have a lot of ideas and <del>sometimes</del> <ins>most of the time</ins> I don't have enough spare time to turn them into full-fledged projects. Here are some of them that've made it through:
 
 - [asteroids_clone](https://github.com/bozdogan/asteroids_clone)  
@@ -17,8 +24,6 @@ I have a lot of ideas and <del>sometimes</del> <ins>most of the time</ins> I don
   Senior thesis. A layered text summarization tool using Natural Language Processing with Deep Learning. It consists of a server that runs the summarization engines, an API for querying the server and a web client to give user a convenient way to use our service. Back-end is written in Python Flask, Tensorflow framework is used for Machine Learning.
 
   My role in the small team of this project was engineering the Deep Learning process, coding the RESTful API for querying the server, and providing back-end engineering support for my teammates who coded the front-end UI/UX and prepared the presentations for the [Project Fair](https://mfprojefuari.eskisehir.edu.tr/14-proje-fuar%C4%B1-ve-yar%C4%B1%C5%9Fmas%C4%B1-08-haziran-2021-0).
-
-## Back-End Projects
 
 - [timestamp-api](https://github.com/bozdogan/timestamp-api)  
   A web API that converts the date between UTC time and UNIX timestamp.
